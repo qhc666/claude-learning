@@ -1,0 +1,15 @@
+# Obsidian：界面布局和缓存，变动频繁且因设备而异
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Claude Code：个人的本地配置和 worktree
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/worktrees/
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store

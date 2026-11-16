@@ -7,7 +7,7 @@ tags:
 
 # Claude Code 使用技巧总览
 
-相关笔记：[[Skill（技能）]]、[[钩子（Hooks）]]、[[MCP（模型上下文协议）]]、[[权限设置]]、[[子代理（Subagents）]]、[[清空、压缩、分叉与新会话]]、[[编写有效的 CLAUDE.md 指令]]、[[CLAUDE.md 的位置、层级与加载]]、[[Git worktree]]
+相关笔记：[[从零开发项目的工作流]]、[[Skill（技能）]]、[[钩子（Hooks）]]、[[MCP（模型上下文协议）]]、[[权限设置]]、[[子代理（Subagents）]]、[[清空、压缩、分叉与新会话]]、[[编写有效的 CLAUDE.md 指令]]、[[CLAUDE.md 的位置、层级与加载]]、[[Git worktree]]
 
 > [!note] 说明
 > 快捷键等细节在不同版本、不同界面里可能有出入，以实际使用的版本为准。2026-11-16 已对照官方文档的 best-practices、interactive-mode、permission-modes 页面核对并修正；"粘贴图片"一条没有核对。

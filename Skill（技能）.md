@@ -12,7 +12,7 @@ tags:
 > [!important] 一句话
 > skill 是一份写给 Claude 的"操作手册"，平时不占上下文，用到的时候才加载。
 
-相关笔记：[[钩子（Hooks）]]、[[MCP（模型上下文协议）]]、[[Claude Code 使用技巧总览]]、[[编写有效的 CLAUDE.md 指令]]、[[CLAUDE.md 的位置、层级与加载]]
+相关笔记：[[子代理（Subagents）]]、[[钩子（Hooks）]]、[[MCP（模型上下文协议）]]、[[Claude Code 使用技巧总览]]、[[编写有效的 CLAUDE.md 指令]]、[[CLAUDE.md 的位置、层级与加载]]
 
 ## 一、解决什么问题
 
